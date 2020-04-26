@@ -8,7 +8,9 @@ Created on Wed Apr 22 22:10:10 2020
 
 from random import randint
 from time import sleep
-import emoji
+import emoji 
+#essa é a biblioteca de emoji, você deve instalar a parte 
+#encontro nesse site todos os códigos disponíveis dos emojis dessa biblioteca https://www.webfx.com/tools/emoji-cheat-sheet/
 
 lista = ("Pedra", "Papel", "Tesoura")
 computador = randint(0,2)
@@ -73,4 +75,4 @@ elif computador == 2:
     else:
         print("")
 else:
-    print("Operacao inválida")
+    print("Operação inválida")
