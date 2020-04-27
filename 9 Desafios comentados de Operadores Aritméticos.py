@@ -8,6 +8,9 @@ Created on Mon Apr 27 15:34:16 2020
 
 #OPERADORES ARITMÉTICOS
 
+#estes desafios são encontrados no curso online de Python. É um curso gratuito e de alta qualidade. 
+#acesse a playlist desse curso aqui>>>> https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6
+
 #DESAFIO 005
 #faça um programa que leia um número inteiro e mostre na tela o seu sucessor 
 # e o seu antecessor
